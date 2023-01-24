@@ -1,0 +1,7 @@
+*.dsk
+*.cdt
+*.sna
+obj/
+.vscode/
+dsk/
+Makefile
